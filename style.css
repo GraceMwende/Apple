@@ -52,7 +52,7 @@ ul :last-child {
   background-image: linear-gradient(#d8d3cd, #41444b);
 }
 .nav-header {
-  background-image: url('/assets/images/verse2.jpg');
+  background-image: url("assets/images/verse2.jpg");
   background-size: cover;
   height: 600px;
   width: 100vw;
